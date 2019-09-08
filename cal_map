@@ -1,0 +1,25 @@
+person_data = {'Tom': [['spinach', '3']], 'Vishnu': [['butter chicken', '2']], 'James': [['ice cream', '2'], ['chickpea curry', '4']], 'Sanjay': [['chickpea curry', '3'], ['naan', '4']], 'Kishore': [['chickpea curry', '1'], ['butter chicken', '4'], ['tandoori chicken', '2'], ['tandoori chicken', '2']], 'Niyas': [['lemon tea', '3']], 'Shabeer': [['chickpea curry', '4']], 'Calley': [['ice cream', '1']]}
+{'Tom': [['spinach', '3']], 'Vishnu': [['butter chicken', '2']], 'James': [['ice cream', '2'], ['chickpea curry', '4']], 'Sanjay': [['chickpea curry', '3'], ['naan', '4']], 'Kishore': [['chickpea curry', '1'], ['butter chicken', '4'], ['tandoori chicken', '2'], ['tandoori chicken', '2']], 'Niyas': [['lemon tea', '3']], 'Shabeer': [['chickpea curry', '4']], 'Calley': [['ice cream', '1']]}
+
+
+calorie_map = [{'Food': 'pizza', 'Calories': '1200'}, {'Food': 'ice cream', 'Calories': '400'}, {'Food': 'naan', 'Calories': '180'}, {'Food': 'mexican burrito', 'Calories': '850'}, {'Food': 'black lentils', 'Calories': '390'}, {'Food': 'spinach', 'Calories': '240'}, {'Food': 'lemon tea', 'Calories': '0'}, {'Food': 'chickpea curry', 'Calories': '420'}, {'Food': 'tandoori chicken', 'Calories': '770'}, {'Food': 'butter chicken', 'Calories': '990'}]
+tot = {}
+def total_calorie_all():
+	
+	for key, val in person_data.items():
+		
+		for i in val:
+
+			for dat in calorie_map:
+				
+				if dat['Food'] == i[0]:
+
+			   		total =  int(i[1]) * int(dat['Calories'])
+			   		tot[key] = total
+	return tot
+			   		
+print(total_calorie_all())
+
+
+
+		

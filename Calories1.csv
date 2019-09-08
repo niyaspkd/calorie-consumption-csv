@@ -1,0 +1,931 @@
+person,food,qty,date
+Tom,spinach,3,2019-01-01
+Vishnu,butter chicken,2,2019-01-01
+James,ice cream,2,2019-01-01
+Sanjay,chickpea curry,3,2019-01-01
+Sanjay,naan,4,2019-01-01
+Kishore,chickpea curry,1,2019-01-01
+Kishore,butter chicken,4,2019-01-01
+Niyas,lemon tea,3,2019-01-01
+Shabeer,chickpea curry,4,2019-01-01
+Kishore,tandoori chicken,2,2019-01-01
+James,chickpea curry,4,2019-01-01
+Calley,ice cream,1,2019-01-01
+Kishore,tandoori chicken,2,2019-01-01
+Sanjay,spinach,4,2019-01-01
+Kishore,pizza,4,2019-01-01
+Tom,mexican burrito,3,2019-01-01
+Sanjay,lemon tea,4,2019-01-01
+Kishore,chickpea curry,3,2019-01-01
+Shabeer,mexican burrito,3,2019-01-01
+Sanjay,ice cream,2,2019-01-01
+Shabeer,lemon tea,1,2019-01-01
+Tom,mexican burrito,4,2019-01-01
+Niyas,tandoori chicken,3,2019-01-01
+Vishnu,lemon tea,2,2019-01-01
+Sanjay,chickpea curry,3,2019-01-01
+Sanjay,lemon tea,4,2019-01-01
+JD,lemon tea,3,2019-01-01
+Tom,spinach,3,2019-01-01
+Sanjay,lemon tea,3,2019-01-01
+Vishnu,tandoori chicken,2,2019-01-01
+Vishnu,mexican burrito,3,2019-01-02
+Daniel,spinach,3,2019-01-02
+Michael,mexican burrito,1,2019-01-02
+Vishnu,black lentils,1,2019-01-02
+Niyas,ice cream,4,2019-01-02
+Tom,lemon tea,2,2019-01-02
+Shabeer,black lentils,2,2019-01-02
+Sanjay,lemon tea,3,2019-01-02
+Cijo,naan,4,2019-01-02
+Tom,lemon tea,4,2019-01-02
+Cijo,spinach,1,2019-01-02
+James,naan,1,2019-01-02
+Shabeer,chickpea curry,1,2019-01-02
+Michael,spinach,4,2019-01-02
+Michael,butter chicken,4,2019-01-02
+Daniel,tandoori chicken,3,2019-01-02
+Cijo,chickpea curry,4,2019-01-02
+Michael,pizza,2,2019-01-02
+Shabeer,black lentils,1,2019-01-02
+Vishnu,spinach,2,2019-01-02
+Daniel,ice cream,3,2019-01-02
+Cijo,tandoori chicken,4,2019-01-02
+Niyas,butter chicken,4,2019-01-02
+Michael,black lentils,4,2019-01-02
+Niyas,ice cream,2,2019-01-02
+Tom,naan,4,2019-01-02
+Calley,lemon tea,1,2019-01-02
+Shabeer,spinach,4,2019-01-02
+JD,black lentils,3,2019-01-02
+James,naan,4,2019-01-02
+Cijo,pizza,4,2019-01-03
+Niyas,pizza,2,2019-01-03
+Shabeer,spinach,3,2019-01-03
+Sanjay,chickpea curry,2,2019-01-03
+Sanjay,spinach,1,2019-01-03
+Kishore,butter chicken,1,2019-01-03
+Vishnu,naan,3,2019-01-03
+James,black lentils,3,2019-01-03
+Tom,pizza,2,2019-01-03
+Cijo,mexican burrito,3,2019-01-03
+Niyas,mexican burrito,3,2019-01-03
+Michael,naan,1,2019-01-03
+James,naan,2,2019-01-03
+Vishnu,naan,2,2019-01-03
+Daniel,mexican burrito,1,2019-01-03
+Tom,chickpea curry,2,2019-01-03
+Calley,naan,2,2019-01-03
+Kishore,black lentils,2,2019-01-03
+Shabeer,naan,4,2019-01-03
+Niyas,spinach,3,2019-01-03
+Shabeer,lemon tea,2,2019-01-03
+Tom,butter chicken,1,2019-01-03
+Tom,naan,4,2019-01-03
+James,butter chicken,3,2019-01-03
+Calley,lemon tea,4,2019-01-03
+Shabeer,spinach,4,2019-01-03
+Daniel,tandoori chicken,4,2019-01-03
+JD,pizza,1,2019-01-03
+Niyas,pizza,1,2019-01-03
+Daniel,butter chicken,1,2019-01-03
+Cijo,naan,4,2019-01-04
+Shabeer,pizza,2,2019-01-04
+Vishnu,pizza,1,2019-01-04
+James,chickpea curry,2,2019-01-04
+Kishore,black lentils,4,2019-01-04
+Michael,lemon tea,1,2019-01-04
+Cijo,chickpea curry,1,2019-01-04
+Michael,lemon tea,1,2019-01-04
+JD,mexican burrito,2,2019-01-04
+James,lemon tea,1,2019-01-04
+Calley,tandoori chicken,1,2019-01-04
+JD,pizza,1,2019-01-04
+Niyas,naan,2,2019-01-04
+Shabeer,pizza,2,2019-01-04
+Calley,spinach,3,2019-01-04
+JD,tandoori chicken,4,2019-01-04
+Shabeer,butter chicken,4,2019-01-04
+James,pizza,3,2019-01-04
+Michael,spinach,4,2019-01-04
+Sanjay,mexican burrito,2,2019-01-04
+Shabeer,tandoori chicken,3,2019-01-04
+Cijo,naan,1,2019-01-04
+Michael,black lentils,3,2019-01-04
+Niyas,lemon tea,2,2019-01-04
+Kishore,black lentils,4,2019-01-04
+James,butter chicken,3,2019-01-04
+Sanjay,black lentils,4,2019-01-04
+JD,ice cream,3,2019-01-04
+Daniel,butter chicken,1,2019-01-04
+Cijo,naan,4,2019-01-04
+James,mexican burrito,2,2019-01-05
+James,naan,3,2019-01-05
+JD,chickpea curry,1,2019-01-05
+Tom,mexican burrito,2,2019-01-05
+Daniel,tandoori chicken,4,2019-01-05
+Tom,black lentils,2,2019-01-05
+Calley,chickpea curry,3,2019-01-05
+Vishnu,mexican burrito,4,2019-01-05
+Vishnu,butter chicken,2,2019-01-05
+Michael,naan,2,2019-01-05
+James,lemon tea,4,2019-01-05
+Shabeer,black lentils,2,2019-01-05
+Michael,mexican burrito,1,2019-01-05
+James,mexican burrito,4,2019-01-05
+Tom,naan,1,2019-01-05
+JD,tandoori chicken,2,2019-01-05
+Cijo,chickpea curry,4,2019-01-05
+Sanjay,black lentils,4,2019-01-05
+Sanjay,naan,1,2019-01-05
+Niyas,ice cream,4,2019-01-05
+Niyas,pizza,2,2019-01-05
+James,naan,4,2019-01-05
+Kishore,spinach,1,2019-01-05
+JD,naan,1,2019-01-05
+Shabeer,mexican burrito,4,2019-01-05
+Tom,black lentils,2,2019-01-05
+JD,chickpea curry,1,2019-01-05
+Sanjay,spinach,3,2019-01-05
+Daniel,black lentils,4,2019-01-05
+Tom,ice cream,4,2019-01-05
+Sanjay,lemon tea,4,2019-01-06
+Calley,spinach,1,2019-01-06
+Cijo,ice cream,3,2019-01-06
+Calley,chickpea curry,1,2019-01-06
+Kishore,butter chicken,2,2019-01-06
+Michael,mexican burrito,3,2019-01-06
+Cijo,mexican burrito,2,2019-01-06
+Kishore,lemon tea,2,2019-01-06
+Kishore,mexican burrito,1,2019-01-06
+JD,pizza,3,2019-01-06
+Michael,naan,3,2019-01-06
+Kishore,tandoori chicken,4,2019-01-06
+Cijo,butter chicken,4,2019-01-06
+Cijo,black lentils,1,2019-01-06
+Calley,naan,2,2019-01-06
+James,pizza,2,2019-01-06
+James,spinach,4,2019-01-06
+James,chickpea curry,4,2019-01-06
+James,chickpea curry,1,2019-01-06
+Daniel,pizza,1,2019-01-06
+James,lemon tea,1,2019-01-06
+Shabeer,chickpea curry,4,2019-01-06
+JD,chickpea curry,2,2019-01-06
+Michael,lemon tea,4,2019-01-06
+James,tandoori chicken,1,2019-01-06
+James,pizza,4,2019-01-06
+JD,pizza,2,2019-01-06
+Kishore,ice cream,1,2019-01-06
+Shabeer,black lentils,3,2019-01-06
+Shabeer,mexican burrito,2,2019-01-06
+Tom,butter chicken,1,2019-01-07
+Sanjay,spinach,2,2019-01-07
+Vishnu,tandoori chicken,2,2019-01-07
+Vishnu,lemon tea,2,2019-01-07
+Niyas,chickpea curry,4,2019-01-07
+Vishnu,lemon tea,4,2019-01-07
+Niyas,butter chicken,4,2019-01-07
+Cijo,chickpea curry,4,2019-01-07
+Kishore,spinach,1,2019-01-07
+Tom,chickpea curry,3,2019-01-07
+Shabeer,pizza,1,2019-01-07
+Sanjay,mexican burrito,2,2019-01-07
+Sanjay,black lentils,3,2019-01-07
+Niyas,ice cream,2,2019-01-07
+Tom,naan,2,2019-01-07
+Sanjay,lemon tea,1,2019-01-07
+Daniel,mexican burrito,3,2019-01-07
+Cijo,tandoori chicken,4,2019-01-07
+Michael,mexican burrito,4,2019-01-07
+Daniel,chickpea curry,2,2019-01-07
+Shabeer,naan,3,2019-01-07
+Tom,black lentils,3,2019-01-07
+Niyas,ice cream,4,2019-01-07
+JD,lemon tea,2,2019-01-07
+James,pizza,1,2019-01-07
+Michael,black lentils,1,2019-01-07
+Cijo,tandoori chicken,3,2019-01-07
+Daniel,pizza,1,2019-01-07
+Shabeer,tandoori chicken,3,2019-01-07
+Sanjay,tandoori chicken,3,2019-01-07
+Michael,tandoori chicken,4,2019-01-08
+Shabeer,tandoori chicken,3,2019-01-08
+Michael,pizza,1,2019-01-08
+JD,lemon tea,4,2019-01-08
+James,mexican burrito,3,2019-01-08
+Cijo,black lentils,4,2019-01-08
+Michael,tandoori chicken,3,2019-01-08
+Calley,spinach,3,2019-01-08
+Daniel,tandoori chicken,3,2019-01-08
+Calley,pizza,1,2019-01-08
+Daniel,pizza,4,2019-01-08
+Michael,lemon tea,4,2019-01-08
+Kishore,mexican burrito,1,2019-01-08
+Daniel,spinach,4,2019-01-08
+Shabeer,ice cream,3,2019-01-08
+Tom,naan,2,2019-01-08
+Daniel,lemon tea,2,2019-01-08
+Calley,chickpea curry,3,2019-01-08
+Tom,spinach,4,2019-01-08
+Shabeer,mexican burrito,2,2019-01-08
+Sanjay,naan,4,2019-01-08
+Daniel,black lentils,1,2019-01-08
+JD,chickpea curry,2,2019-01-08
+James,butter chicken,1,2019-01-08
+Vishnu,naan,2,2019-01-08
+Shabeer,black lentils,4,2019-01-08
+Shabeer,black lentils,1,2019-01-08
+Calley,black lentils,4,2019-01-08
+Vishnu,black lentils,2,2019-01-08
+JD,mexican burrito,1,2019-01-08
+Michael,lemon tea,3,2019-01-09
+Calley,pizza,3,2019-01-09
+Cijo,pizza,3,2019-01-09
+Cijo,ice cream,1,2019-01-09
+Daniel,pizza,4,2019-01-09
+James,chickpea curry,2,2019-01-09
+Cijo,mexican burrito,2,2019-01-09
+James,black lentils,1,2019-01-09
+Kishore,spinach,2,2019-01-09
+JD,black lentils,2,2019-01-09
+Cijo,ice cream,1,2019-01-09
+Kishore,pizza,1,2019-01-09
+Vishnu,spinach,1,2019-01-09
+Tom,lemon tea,3,2019-01-09
+Niyas,naan,1,2019-01-09
+JD,chickpea curry,4,2019-01-09
+Niyas,mexican burrito,1,2019-01-09
+JD,pizza,2,2019-01-09
+Michael,mexican burrito,2,2019-01-09
+Cijo,mexican burrito,3,2019-01-09
+JD,black lentils,1,2019-01-09
+Vishnu,spinach,1,2019-01-09
+Shabeer,spinach,2,2019-01-09
+Calley,mexican burrito,1,2019-01-09
+Daniel,mexican burrito,4,2019-01-09
+Calley,black lentils,4,2019-01-09
+James,mexican burrito,3,2019-01-09
+Calley,black lentils,3,2019-01-09
+Niyas,tandoori chicken,1,2019-01-09
+Shabeer,chickpea curry,3,2019-01-09
+Vishnu,naan,4,2019-01-10
+Cijo,ice cream,2,2019-01-10
+Michael,pizza,3,2019-01-10
+Michael,spinach,1,2019-01-10
+Daniel,black lentils,4,2019-01-10
+Cijo,spinach,3,2019-01-10
+Daniel,naan,2,2019-01-10
+Daniel,spinach,1,2019-01-10
+Sanjay,mexican burrito,2,2019-01-10
+JD,pizza,1,2019-01-10
+Michael,lemon tea,1,2019-01-10
+Michael,chickpea curry,1,2019-01-10
+Vishnu,naan,2,2019-01-10
+James,chickpea curry,3,2019-01-10
+Tom,naan,1,2019-01-10
+Calley,naan,4,2019-01-10
+Michael,black lentils,2,2019-01-10
+Daniel,ice cream,1,2019-01-10
+Daniel,mexican burrito,4,2019-01-10
+Michael,butter chicken,2,2019-01-10
+Calley,pizza,1,2019-01-10
+Tom,mexican burrito,2,2019-01-10
+Kishore,spinach,1,2019-01-10
+James,butter chicken,4,2019-01-10
+Tom,butter chicken,1,2019-01-10
+Sanjay,mexican burrito,2,2019-01-10
+Daniel,tandoori chicken,1,2019-01-10
+Michael,tandoori chicken,4,2019-01-10
+James,mexican burrito,3,2019-01-10
+Calley,pizza,1,2019-01-10
+JD,lemon tea,4,2019-01-11
+Shabeer,chickpea curry,1,2019-01-11
+Vishnu,mexican burrito,3,2019-01-11
+Shabeer,pizza,1,2019-01-11
+Tom,naan,3,2019-01-11
+Kishore,tandoori chicken,1,2019-01-11
+JD,black lentils,3,2019-01-11
+Vishnu,butter chicken,3,2019-01-11
+JD,butter chicken,3,2019-01-11
+Vishnu,naan,2,2019-01-11
+Kishore,spinach,4,2019-01-11
+Kishore,mexican burrito,3,2019-01-11
+Michael,lemon tea,2,2019-01-11
+Sanjay,butter chicken,3,2019-01-11
+Cijo,mexican burrito,1,2019-01-11
+Shabeer,butter chicken,1,2019-01-11
+Calley,mexican burrito,2,2019-01-11
+Michael,black lentils,4,2019-01-11
+Shabeer,butter chicken,4,2019-01-11
+Niyas,butter chicken,4,2019-01-11
+JD,naan,1,2019-01-11
+James,chickpea curry,2,2019-01-11
+Daniel,butter chicken,1,2019-01-11
+Michael,naan,1,2019-01-11
+Shabeer,black lentils,4,2019-01-11
+Kishore,naan,3,2019-01-11
+Kishore,mexican burrito,3,2019-01-11
+Vishnu,mexican burrito,1,2019-01-11
+Cijo,mexican burrito,2,2019-01-11
+Daniel,spinach,2,2019-01-11
+James,pizza,3,2019-01-12
+Niyas,tandoori chicken,2,2019-01-12
+Tom,lemon tea,4,2019-01-12
+Shabeer,lemon tea,1,2019-01-12
+JD,ice cream,4,2019-01-12
+Michael,lemon tea,1,2019-01-12
+Daniel,naan,3,2019-01-12
+Calley,butter chicken,2,2019-01-12
+Sanjay,chickpea curry,4,2019-01-12
+Calley,tandoori chicken,2,2019-01-12
+Daniel,lemon tea,4,2019-01-12
+Niyas,chickpea curry,3,2019-01-12
+Cijo,lemon tea,3,2019-01-12
+James,tandoori chicken,3,2019-01-12
+Calley,naan,1,2019-01-12
+Vishnu,butter chicken,3,2019-01-12
+Vishnu,chickpea curry,3,2019-01-12
+JD,tandoori chicken,3,2019-01-12
+Calley,lemon tea,1,2019-01-12
+Michael,chickpea curry,4,2019-01-12
+Cijo,spinach,4,2019-01-12
+Tom,spinach,3,2019-01-12
+James,mexican burrito,2,2019-01-12
+James,black lentils,4,2019-01-12
+Niyas,chickpea curry,1,2019-01-12
+Tom,tandoori chicken,4,2019-01-12
+Sanjay,naan,4,2019-01-12
+Cijo,naan,1,2019-01-12
+JD,mexican burrito,1,2019-01-12
+Tom,chickpea curry,2,2019-01-12
+Cijo,lemon tea,4,2019-01-13
+Michael,naan,4,2019-01-13
+JD,butter chicken,1,2019-01-13
+Vishnu,chickpea curry,4,2019-01-13
+James,black lentils,4,2019-01-13
+James,lemon tea,3,2019-01-13
+Vishnu,black lentils,2,2019-01-13
+Vishnu,butter chicken,2,2019-01-13
+Kishore,mexican burrito,4,2019-01-13
+Vishnu,tandoori chicken,1,2019-01-13
+Tom,naan,2,2019-01-13
+Calley,pizza,1,2019-01-13
+Cijo,chickpea curry,3,2019-01-13
+Kishore,lemon tea,2,2019-01-13
+Daniel,pizza,4,2019-01-13
+Calley,tandoori chicken,4,2019-01-13
+Niyas,mexican burrito,3,2019-01-13
+JD,black lentils,3,2019-01-13
+Kishore,chickpea curry,4,2019-01-13
+Shabeer,black lentils,4,2019-01-13
+Cijo,ice cream,2,2019-01-13
+Michael,black lentils,4,2019-01-13
+Shabeer,mexican burrito,2,2019-01-13
+Vishnu,ice cream,3,2019-01-13
+Calley,naan,3,2019-01-13
+James,chickpea curry,1,2019-01-13
+Kishore,naan,3,2019-01-13
+Calley,chickpea curry,2,2019-01-13
+Kishore,mexican burrito,4,2019-01-13
+Sanjay,chickpea curry,4,2019-01-13
+Vishnu,chickpea curry,4,2019-01-14
+JD,ice cream,1,2019-01-14
+Shabeer,butter chicken,2,2019-01-14
+Niyas,naan,1,2019-01-14
+James,ice cream,4,2019-01-14
+Kishore,naan,1,2019-01-14
+Michael,mexican burrito,2,2019-01-14
+Sanjay,naan,2,2019-01-14
+Sanjay,pizza,4,2019-01-14
+Shabeer,lemon tea,2,2019-01-14
+Niyas,black lentils,1,2019-01-14
+JD,spinach,4,2019-01-14
+Vishnu,tandoori chicken,1,2019-01-14
+Cijo,mexican burrito,4,2019-01-14
+Vishnu,tandoori chicken,3,2019-01-14
+Cijo,butter chicken,2,2019-01-14
+Calley,pizza,1,2019-01-14
+JD,mexican burrito,1,2019-01-14
+Kishore,butter chicken,1,2019-01-14
+Cijo,mexican burrito,3,2019-01-14
+Sanjay,butter chicken,2,2019-01-14
+Daniel,ice cream,3,2019-01-14
+James,naan,4,2019-01-14
+Sanjay,naan,3,2019-01-14
+Michael,mexican burrito,2,2019-01-14
+James,tandoori chicken,4,2019-01-14
+James,butter chicken,4,2019-01-14
+Vishnu,butter chicken,2,2019-01-14
+Vishnu,lemon tea,1,2019-01-14
+Niyas,naan,4,2019-01-14
+Calley,spinach,4,2019-01-15
+JD,naan,4,2019-01-15
+Tom,lemon tea,1,2019-01-15
+Shabeer,spinach,1,2019-01-15
+JD,ice cream,2,2019-01-15
+Shabeer,mexican burrito,4,2019-01-15
+James,mexican burrito,3,2019-01-15
+Cijo,black lentils,1,2019-01-15
+Vishnu,lemon tea,2,2019-01-15
+Shabeer,mexican burrito,3,2019-01-15
+Shabeer,butter chicken,1,2019-01-15
+Michael,mexican burrito,1,2019-01-15
+Calley,mexican burrito,4,2019-01-15
+Vishnu,pizza,2,2019-01-15
+Kishore,spinach,2,2019-01-15
+Vishnu,naan,1,2019-01-15
+JD,mexican burrito,3,2019-01-15
+Kishore,black lentils,2,2019-01-15
+Cijo,naan,4,2019-01-15
+Tom,black lentils,1,2019-01-15
+Michael,tandoori chicken,4,2019-01-15
+Cijo,tandoori chicken,2,2019-01-15
+Daniel,naan,4,2019-01-15
+Michael,mexican burrito,3,2019-01-15
+Niyas,naan,1,2019-01-15
+Shabeer,butter chicken,2,2019-01-15
+Cijo,ice cream,3,2019-01-15
+Kishore,tandoori chicken,2,2019-01-15
+Vishnu,pizza,3,2019-01-15
+Michael,chickpea curry,4,2019-01-15
+Michael,tandoori chicken,4,2019-01-16
+Sanjay,lemon tea,1,2019-01-16
+Cijo,spinach,4,2019-01-16
+JD,chickpea curry,3,2019-01-16
+Daniel,black lentils,1,2019-01-16
+Kishore,pizza,4,2019-01-16
+Kishore,butter chicken,1,2019-01-16
+Niyas,lemon tea,1,2019-01-16
+Tom,mexican burrito,1,2019-01-16
+Michael,butter chicken,3,2019-01-16
+Vishnu,naan,4,2019-01-16
+Daniel,naan,3,2019-01-16
+Vishnu,spinach,2,2019-01-16
+Kishore,lemon tea,2,2019-01-16
+Kishore,pizza,2,2019-01-16
+Tom,pizza,2,2019-01-16
+Sanjay,naan,1,2019-01-16
+Daniel,tandoori chicken,2,2019-01-16
+James,black lentils,1,2019-01-16
+James,spinach,3,2019-01-16
+JD,pizza,2,2019-01-16
+Calley,ice cream,2,2019-01-16
+JD,naan,3,2019-01-16
+Cijo,butter chicken,1,2019-01-16
+James,tandoori chicken,3,2019-01-16
+JD,mexican burrito,1,2019-01-16
+Tom,ice cream,1,2019-01-16
+Shabeer,ice cream,4,2019-01-16
+Cijo,naan,1,2019-01-16
+JD,naan,1,2019-01-16
+Calley,black lentils,2,2019-01-17
+Shabeer,spinach,3,2019-01-17
+Tom,chickpea curry,2,2019-01-17
+Cijo,naan,1,2019-01-17
+Michael,black lentils,1,2019-01-17
+JD,spinach,1,2019-01-17
+Daniel,pizza,2,2019-01-17
+Vishnu,pizza,4,2019-01-17
+Vishnu,lemon tea,3,2019-01-17
+Niyas,lemon tea,2,2019-01-17
+Kishore,chickpea curry,2,2019-01-17
+Calley,lemon tea,1,2019-01-17
+Calley,spinach,1,2019-01-17
+Tom,lemon tea,4,2019-01-17
+Tom,lemon tea,3,2019-01-17
+Calley,pizza,2,2019-01-17
+Tom,tandoori chicken,3,2019-01-17
+Calley,black lentils,2,2019-01-17
+Niyas,butter chicken,1,2019-01-17
+Daniel,ice cream,4,2019-01-17
+Kishore,ice cream,2,2019-01-17
+James,spinach,1,2019-01-17
+Niyas,naan,2,2019-01-17
+Cijo,mexican burrito,3,2019-01-17
+James,pizza,2,2019-01-17
+Calley,lemon tea,3,2019-01-17
+Shabeer,mexican burrito,3,2019-01-17
+Michael,mexican burrito,4,2019-01-17
+Shabeer,ice cream,4,2019-01-17
+Sanjay,naan,4,2019-01-17
+James,spinach,3,2019-01-18
+Cijo,chickpea curry,3,2019-01-18
+James,black lentils,3,2019-01-18
+JD,naan,2,2019-01-18
+Cijo,tandoori chicken,3,2019-01-18
+Calley,pizza,4,2019-01-18
+Kishore,spinach,4,2019-01-18
+Tom,ice cream,1,2019-01-18
+Michael,butter chicken,4,2019-01-18
+Michael,mexican burrito,1,2019-01-18
+Kishore,tandoori chicken,4,2019-01-18
+Michael,pizza,3,2019-01-18
+Michael,black lentils,2,2019-01-18
+Vishnu,tandoori chicken,1,2019-01-18
+Kishore,chickpea curry,1,2019-01-18
+Michael,black lentils,3,2019-01-18
+Sanjay,lemon tea,4,2019-01-18
+James,pizza,2,2019-01-18
+Michael,naan,2,2019-01-18
+Kishore,mexican burrito,3,2019-01-18
+Vishnu,lemon tea,3,2019-01-18
+James,ice cream,3,2019-01-18
+Calley,chickpea curry,2,2019-01-18
+Sanjay,black lentils,1,2019-01-18
+Cijo,lemon tea,2,2019-01-18
+Niyas,black lentils,3,2019-01-18
+James,butter chicken,1,2019-01-18
+JD,lemon tea,4,2019-01-18
+Niyas,mexican burrito,3,2019-01-18
+Michael,chickpea curry,3,2019-01-18
+James,chickpea curry,2,2019-01-19
+JD,butter chicken,4,2019-01-19
+Tom,naan,3,2019-01-19
+JD,ice cream,4,2019-01-19
+Kishore,spinach,2,2019-01-19
+Shabeer,lemon tea,4,2019-01-19
+Daniel,black lentils,3,2019-01-19
+Sanjay,pizza,2,2019-01-19
+Kishore,naan,4,2019-01-19
+Daniel,mexican burrito,2,2019-01-19
+Niyas,spinach,1,2019-01-19
+Sanjay,pizza,4,2019-01-19
+Shabeer,lemon tea,4,2019-01-19
+Daniel,tandoori chicken,2,2019-01-19
+Vishnu,mexican burrito,1,2019-01-19
+Michael,tandoori chicken,1,2019-01-19
+Kishore,mexican burrito,1,2019-01-19
+James,pizza,2,2019-01-19
+Calley,spinach,1,2019-01-19
+Shabeer,black lentils,2,2019-01-19
+Sanjay,lemon tea,2,2019-01-19
+Vishnu,chickpea curry,1,2019-01-19
+Cijo,ice cream,2,2019-01-19
+Kishore,lemon tea,4,2019-01-19
+Shabeer,ice cream,4,2019-01-19
+Tom,naan,4,2019-01-19
+Cijo,ice cream,4,2019-01-19
+Sanjay,ice cream,1,2019-01-19
+Shabeer,chickpea curry,4,2019-01-19
+Daniel,mexican burrito,1,2019-01-19
+Daniel,black lentils,4,2019-01-20
+James,lemon tea,4,2019-01-20
+Sanjay,pizza,4,2019-01-20
+James,mexican burrito,1,2019-01-20
+Calley,lemon tea,2,2019-01-20
+Vishnu,butter chicken,2,2019-01-20
+Michael,ice cream,2,2019-01-20
+Vishnu,tandoori chicken,3,2019-01-20
+Calley,butter chicken,1,2019-01-20
+Kishore,mexican burrito,1,2019-01-20
+Niyas,ice cream,2,2019-01-20
+Michael,pizza,1,2019-01-20
+Cijo,pizza,4,2019-01-20
+Calley,spinach,2,2019-01-20
+Shabeer,lemon tea,1,2019-01-20
+Cijo,tandoori chicken,4,2019-01-20
+Cijo,naan,2,2019-01-20
+Kishore,pizza,3,2019-01-20
+Niyas,chickpea curry,4,2019-01-20
+JD,lemon tea,4,2019-01-20
+Shabeer,mexican burrito,4,2019-01-20
+Calley,ice cream,3,2019-01-20
+James,ice cream,1,2019-01-20
+Kishore,butter chicken,4,2019-01-20
+Cijo,lemon tea,2,2019-01-20
+Calley,lemon tea,1,2019-01-20
+Michael,ice cream,2,2019-01-20
+Kishore,lemon tea,2,2019-01-20
+Cijo,pizza,3,2019-01-20
+Michael,tandoori chicken,1,2019-01-20
+Shabeer,black lentils,3,2019-01-21
+James,lemon tea,1,2019-01-21
+JD,mexican burrito,2,2019-01-21
+Niyas,black lentils,4,2019-01-21
+Niyas,black lentils,2,2019-01-21
+JD,ice cream,4,2019-01-21
+Calley,pizza,2,2019-01-21
+Cijo,lemon tea,1,2019-01-21
+Kishore,naan,2,2019-01-21
+Kishore,ice cream,1,2019-01-21
+Cijo,chickpea curry,4,2019-01-21
+Michael,lemon tea,1,2019-01-21
+JD,pizza,1,2019-01-21
+Tom,ice cream,3,2019-01-21
+Niyas,spinach,3,2019-01-21
+Shabeer,pizza,4,2019-01-21
+Niyas,tandoori chicken,4,2019-01-21
+JD,black lentils,4,2019-01-21
+Kishore,pizza,2,2019-01-21
+Vishnu,pizza,4,2019-01-21
+Niyas,lemon tea,2,2019-01-21
+Vishnu,ice cream,4,2019-01-21
+Calley,chickpea curry,3,2019-01-21
+Cijo,lemon tea,3,2019-01-21
+Shabeer,pizza,4,2019-01-21
+Michael,butter chicken,4,2019-01-21
+Daniel,lemon tea,1,2019-01-21
+Tom,butter chicken,1,2019-01-21
+Daniel,chickpea curry,2,2019-01-21
+Daniel,chickpea curry,1,2019-01-21
+Tom,spinach,4,2019-01-22
+Tom,naan,1,2019-01-22
+Niyas,naan,1,2019-01-22
+Daniel,ice cream,2,2019-01-22
+Cijo,spinach,4,2019-01-22
+Sanjay,chickpea curry,3,2019-01-22
+Shabeer,black lentils,4,2019-01-22
+Cijo,chickpea curry,1,2019-01-22
+Calley,spinach,1,2019-01-22
+James,mexican burrito,2,2019-01-22
+Daniel,mexican burrito,2,2019-01-22
+Calley,spinach,4,2019-01-22
+Michael,black lentils,2,2019-01-22
+Vishnu,black lentils,1,2019-01-22
+Calley,butter chicken,2,2019-01-22
+Daniel,lemon tea,4,2019-01-22
+Tom,spinach,3,2019-01-22
+Vishnu,butter chicken,3,2019-01-22
+Niyas,lemon tea,2,2019-01-22
+JD,lemon tea,4,2019-01-22
+JD,pizza,4,2019-01-22
+Sanjay,lemon tea,1,2019-01-22
+Niyas,pizza,2,2019-01-22
+JD,spinach,2,2019-01-22
+JD,pizza,3,2019-01-22
+Vishnu,pizza,4,2019-01-22
+Tom,pizza,2,2019-01-22
+Cijo,pizza,1,2019-01-22
+Kishore,black lentils,2,2019-01-22
+Cijo,chickpea curry,1,2019-01-22
+Daniel,naan,1,2019-01-23
+Shabeer,black lentils,1,2019-01-23
+Daniel,chickpea curry,4,2019-01-23
+Cijo,tandoori chicken,2,2019-01-23
+Michael,black lentils,4,2019-01-23
+JD,lemon tea,2,2019-01-23
+Tom,naan,4,2019-01-23
+Niyas,ice cream,2,2019-01-23
+Shabeer,spinach,1,2019-01-23
+Kishore,lemon tea,1,2019-01-23
+James,butter chicken,3,2019-01-23
+Cijo,naan,3,2019-01-23
+Cijo,pizza,4,2019-01-23
+Vishnu,mexican burrito,1,2019-01-23
+James,lemon tea,2,2019-01-23
+Niyas,chickpea curry,3,2019-01-23
+Niyas,butter chicken,3,2019-01-23
+Calley,black lentils,1,2019-01-23
+Niyas,black lentils,2,2019-01-23
+Cijo,ice cream,4,2019-01-23
+Shabeer,mexican burrito,4,2019-01-23
+JD,spinach,4,2019-01-23
+Daniel,ice cream,3,2019-01-23
+Niyas,mexican burrito,1,2019-01-23
+JD,black lentils,3,2019-01-23
+James,black lentils,3,2019-01-23
+Kishore,mexican burrito,4,2019-01-23
+James,mexican burrito,2,2019-01-23
+Niyas,lemon tea,4,2019-01-23
+Vishnu,naan,2,2019-01-23
+James,naan,4,2019-01-24
+Niyas,mexican burrito,3,2019-01-24
+JD,black lentils,2,2019-01-24
+Vishnu,chickpea curry,2,2019-01-24
+Vishnu,tandoori chicken,2,2019-01-24
+JD,butter chicken,2,2019-01-24
+Michael,chickpea curry,1,2019-01-24
+Daniel,tandoori chicken,4,2019-01-24
+Michael,tandoori chicken,3,2019-01-24
+Calley,pizza,2,2019-01-24
+Daniel,black lentils,3,2019-01-24
+Niyas,ice cream,1,2019-01-24
+Michael,lemon tea,3,2019-01-24
+Niyas,tandoori chicken,1,2019-01-24
+JD,pizza,3,2019-01-24
+Shabeer,black lentils,2,2019-01-24
+Vishnu,naan,2,2019-01-24
+Cijo,ice cream,1,2019-01-24
+Michael,pizza,2,2019-01-24
+JD,chickpea curry,3,2019-01-24
+Kishore,black lentils,3,2019-01-24
+Cijo,ice cream,1,2019-01-24
+Kishore,ice cream,1,2019-01-24
+Kishore,tandoori chicken,4,2019-01-24
+JD,chickpea curry,2,2019-01-24
+Tom,lemon tea,3,2019-01-24
+Calley,ice cream,1,2019-01-24
+Vishnu,spinach,1,2019-01-24
+JD,pizza,4,2019-01-24
+Vishnu,butter chicken,2,2019-01-24
+Kishore,naan,4,2019-01-25
+Calley,chickpea curry,4,2019-01-25
+Calley,chickpea curry,3,2019-01-25
+JD,black lentils,1,2019-01-25
+Michael,lemon tea,4,2019-01-25
+Niyas,chickpea curry,3,2019-01-25
+Michael,naan,1,2019-01-25
+Tom,spinach,1,2019-01-25
+Sanjay,lemon tea,1,2019-01-25
+Niyas,spinach,2,2019-01-25
+Shabeer,butter chicken,1,2019-01-25
+Niyas,ice cream,1,2019-01-25
+JD,lemon tea,4,2019-01-25
+Niyas,lemon tea,4,2019-01-25
+Calley,tandoori chicken,3,2019-01-25
+Daniel,black lentils,4,2019-01-25
+Sanjay,tandoori chicken,4,2019-01-25
+Tom,spinach,3,2019-01-25
+Tom,pizza,4,2019-01-25
+Shabeer,ice cream,2,2019-01-25
+Niyas,chickpea curry,3,2019-01-25
+JD,pizza,1,2019-01-25
+Sanjay,spinach,3,2019-01-25
+Daniel,ice cream,4,2019-01-25
+Michael,ice cream,2,2019-01-25
+Michael,spinach,1,2019-01-25
+Vishnu,naan,4,2019-01-25
+Kishore,butter chicken,3,2019-01-25
+Kishore,naan,2,2019-01-25
+Tom,lemon tea,1,2019-01-25
+James,tandoori chicken,1,2019-01-26
+Daniel,mexican burrito,2,2019-01-26
+JD,butter chicken,2,2019-01-26
+James,tandoori chicken,4,2019-01-26
+JD,lemon tea,3,2019-01-26
+Shabeer,ice cream,1,2019-01-26
+Niyas,pizza,4,2019-01-26
+Vishnu,chickpea curry,3,2019-01-26
+James,mexican burrito,1,2019-01-26
+Shabeer,chickpea curry,3,2019-01-26
+Tom,butter chicken,4,2019-01-26
+Michael,naan,4,2019-01-26
+JD,mexican burrito,3,2019-01-26
+Niyas,spinach,4,2019-01-26
+Kishore,butter chicken,1,2019-01-26
+Vishnu,naan,4,2019-01-26
+Daniel,black lentils,3,2019-01-26
+Niyas,lemon tea,1,2019-01-26
+Tom,pizza,1,2019-01-26
+Michael,butter chicken,1,2019-01-26
+Niyas,mexican burrito,3,2019-01-26
+Niyas,naan,4,2019-01-26
+Tom,black lentils,1,2019-01-26
+Cijo,lemon tea,1,2019-01-26
+Kishore,black lentils,1,2019-01-26
+James,tandoori chicken,1,2019-01-26
+Shabeer,pizza,1,2019-01-26
+Shabeer,tandoori chicken,1,2019-01-26
+Cijo,butter chicken,3,2019-01-26
+Kishore,tandoori chicken,1,2019-01-26
+Tom,lemon tea,3,2019-01-27
+James,spinach,4,2019-01-27
+Tom,mexican burrito,4,2019-01-27
+Niyas,spinach,3,2019-01-27
+Niyas,butter chicken,2,2019-01-27
+JD,pizza,4,2019-01-27
+Kishore,butter chicken,2,2019-01-27
+James,black lentils,2,2019-01-27
+Tom,ice cream,1,2019-01-27
+Cijo,butter chicken,2,2019-01-27
+Niyas,black lentils,3,2019-01-27
+James,naan,4,2019-01-27
+Daniel,tandoori chicken,3,2019-01-27
+Daniel,pizza,4,2019-01-27
+Calley,lemon tea,2,2019-01-27
+Michael,naan,4,2019-01-27
+Sanjay,pizza,2,2019-01-27
+Niyas,chickpea curry,3,2019-01-27
+Sanjay,chickpea curry,2,2019-01-27
+Daniel,mexican burrito,2,2019-01-27
+Sanjay,butter chicken,4,2019-01-27
+Niyas,butter chicken,3,2019-01-27
+Vishnu,butter chicken,3,2019-01-27
+Vishnu,chickpea curry,3,2019-01-27
+Vishnu,butter chicken,1,2019-01-27
+Shabeer,lemon tea,1,2019-01-27
+Vishnu,naan,2,2019-01-27
+Sanjay,naan,1,2019-01-27
+Niyas,tandoori chicken,2,2019-01-27
+Michael,chickpea curry,4,2019-01-27
+Tom,chickpea curry,4,2019-01-28
+James,tandoori chicken,2,2019-01-28
+James,butter chicken,2,2019-01-28
+Tom,chickpea curry,4,2019-01-28
+Daniel,chickpea curry,4,2019-01-28
+Calley,naan,2,2019-01-28
+Sanjay,lemon tea,2,2019-01-28
+Vishnu,mexican burrito,3,2019-01-28
+Niyas,lemon tea,1,2019-01-28
+Shabeer,tandoori chicken,1,2019-01-28
+Daniel,butter chicken,4,2019-01-28
+Michael,ice cream,1,2019-01-28
+Tom,butter chicken,2,2019-01-28
+Michael,butter chicken,3,2019-01-28
+James,lemon tea,2,2019-01-28
+Cijo,chickpea curry,3,2019-01-28
+JD,tandoori chicken,4,2019-01-28
+Kishore,pizza,4,2019-01-28
+James,naan,1,2019-01-28
+James,black lentils,3,2019-01-28
+Daniel,pizza,4,2019-01-28
+JD,lemon tea,1,2019-01-28
+Sanjay,tandoori chicken,3,2019-01-28
+Niyas,spinach,1,2019-01-28
+Vishnu,mexican burrito,4,2019-01-28
+James,black lentils,4,2019-01-28
+Michael,butter chicken,4,2019-01-28
+Michael,black lentils,4,2019-01-28
+Daniel,naan,1,2019-01-28
+Kishore,butter chicken,4,2019-01-28
+Calley,tandoori chicken,2,2019-01-29
+Calley,ice cream,3,2019-01-29
+Sanjay,butter chicken,3,2019-01-29
+Niyas,mexican burrito,4,2019-01-29
+JD,butter chicken,2,2019-01-29
+Daniel,lemon tea,2,2019-01-29
+Niyas,mexican burrito,4,2019-01-29
+Michael,black lentils,2,2019-01-29
+Michael,lemon tea,1,2019-01-29
+Calley,lemon tea,1,2019-01-29
+Shabeer,spinach,4,2019-01-29
+Daniel,naan,2,2019-01-29
+JD,ice cream,2,2019-01-29
+Daniel,butter chicken,3,2019-01-29
+Shabeer,black lentils,1,2019-01-29
+James,pizza,2,2019-01-29
+Sanjay,ice cream,2,2019-01-29
+Niyas,pizza,2,2019-01-29
+JD,chickpea curry,3,2019-01-29
+Tom,butter chicken,1,2019-01-29
+Calley,black lentils,2,2019-01-29
+Daniel,mexican burrito,1,2019-01-29
+Kishore,naan,1,2019-01-29
+Sanjay,pizza,3,2019-01-29
+Tom,chickpea curry,2,2019-01-29
+James,black lentils,2,2019-01-29
+Niyas,mexican burrito,3,2019-01-29
+Shabeer,lemon tea,3,2019-01-29
+James,black lentils,1,2019-01-29
+Michael,naan,2,2019-01-29
+Vishnu,butter chicken,1,2019-01-30
+Calley,black lentils,1,2019-01-30
+Daniel,mexican burrito,3,2019-01-30
+Kishore,ice cream,4,2019-01-30
+Daniel,black lentils,2,2019-01-30
+Vishnu,naan,2,2019-01-30
+James,mexican burrito,3,2019-01-30
+Cijo,spinach,4,2019-01-30
+Niyas,mexican burrito,2,2019-01-30
+Kishore,butter chicken,4,2019-01-30
+James,tandoori chicken,2,2019-01-30
+Michael,naan,3,2019-01-30
+Michael,naan,1,2019-01-30
+Cijo,tandoori chicken,2,2019-01-30
+Cijo,ice cream,2,2019-01-30
+Niyas,chickpea curry,1,2019-01-30
+James,naan,3,2019-01-30
+Cijo,spinach,4,2019-01-30
+Sanjay,spinach,4,2019-01-30
+JD,black lentils,1,2019-01-30
+Cijo,spinach,4,2019-01-30
+Niyas,butter chicken,4,2019-01-30
+Vishnu,ice cream,4,2019-01-30
+Vishnu,spinach,3,2019-01-30
+Vishnu,spinach,1,2019-01-30
+Michael,black lentils,1,2019-01-30
+Niyas,butter chicken,2,2019-01-30
+Shabeer,tandoori chicken,2,2019-01-30
+Vishnu,naan,1,2019-01-30
+James,lemon tea,2,2019-01-30
+JD,tandoori chicken,3,2019-01-31
+Daniel,naan,1,2019-01-31
+Shabeer,ice cream,2,2019-01-31
+Kishore,spinach,1,2019-01-31
+Vishnu,ice cream,1,2019-01-31
+Kishore,mexican burrito,2,2019-01-31
+James,lemon tea,1,2019-01-31
+Sanjay,mexican burrito,4,2019-01-31
+Shabeer,ice cream,4,2019-01-31
+JD,butter chicken,4,2019-01-31
+Shabeer,ice cream,3,2019-01-31
+JD,butter chicken,1,2019-01-31
+Vishnu,mexican burrito,2,2019-01-31
+James,chickpea curry,1,2019-01-31
+James,pizza,1,2019-01-31
+Niyas,mexican burrito,3,2019-01-31
+Daniel,naan,1,2019-01-31
+Calley,lemon tea,2,2019-01-31
+Michael,spinach,4,2019-01-31
+Kishore,tandoori chicken,3,2019-01-31
+Sanjay,butter chicken,4,2019-01-31
+Niyas,black lentils,4,2019-01-31
+Sanjay,black lentils,3,2019-01-31
+Daniel,mexican burrito,4,2019-01-31
+Michael,butter chicken,3,2019-01-31
+Kishore,mexican burrito,3,2019-01-31
+Calley,ice cream,2,2019-01-31
+Tom,lemon tea,1,2019-01-31
+Shabeer,ice cream,1,2019-01-31
+Niyas,chickpea curry,3,2019-01-31
